@@ -95,10 +95,13 @@ cd cybersecurity-log-analyzer
 ## Project Screenshots
 
 ### Threat Detection Dashboard
-![Threat Detection Dashboard](screenshots/dashboard_overview.png)
+
+![Cybersecurity Threat Detection Dashboard](screenshots/dashboard-overview.png)
 
 ### Security Alert Details
-![Security Alert Details](screenshots/alert_details.png)
+
+![Security Alert Details](screenshots/alert-details.png)
 
 ### Security Events and Alert History
-![Security Events](screenshots/events_history.png)
+
+![Security Events and Alert History](screenshots/security-events.png)
