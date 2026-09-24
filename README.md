@@ -1,6 +1,9 @@
 # Cybersecurity Threat Detection & Log Analysis System
 
 A Python-based cybersecurity monitoring application that analyzes authentication logs, detects suspicious activity, assigns threat severity levels, stores security alerts, and displays results through an interactive dashboard.
+## Live Demo
+
+🔗 [View the Live Cybersecurity Threat Detection Dashboard](https://cybersecurity-log-analyzer-nhx988tjts85uokqw3uhg.streamlit.app)
 
 ## Project Overview
 
