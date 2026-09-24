@@ -92,6 +92,7 @@ Clone the repository and enter the project directory:
 ```bash
 git clone YOUR_REPOSITORY_URL
 cd cybersecurity-log-analyzer
+```
 ## Project Screenshots
 
 ### Threat Detection Dashboard
